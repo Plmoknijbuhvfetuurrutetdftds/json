@@ -1,0 +1,242 @@
+{
+  "chat" : {
+    "3G5izITyhNWPupZsW4mLajS08bZ2" : {
+      "JzoSpQR7DCOwMfECQ0y7hwwsJl22" : {
+        "-MJJAiIR1mYW6gbaueuc" : {
+          "gmt" : "GMT+03:30",
+          "jam" : "23:53",
+          "pesan" : "He",
+          "push key" : "-MJJAiIR1mYW6gbaueuc",
+          "reply" : "",
+          "reply id" : "",
+          "tanggal" : "10/10/2020",
+          "tipe" : "pc",
+          "uid" : "JzoSpQR7DCOwMfECQ0y7hwwsJl22"
+        },
+        "-MJJOV_QkvdCa091C3M0" : {
+          "gmt" : "GMT+03:30",
+          "jam" : "00:53",
+          "pesan" : "ععل",
+          "push key" : "-MJJOV_QkvdCa091C3M0",
+          "reply" : "",
+          "reply id" : "",
+          "tanggal" : "11/10/2020",
+          "tipe" : "pc",
+          "uid" : "JzoSpQR7DCOwMfECQ0y7hwwsJl22"
+        },
+        "-MJJOWYXuHkfGQVhIaJG" : {
+          "gmt" : "GMT+03:30",
+          "jam" : "00:53",
+          "pesan" : "سلام ",
+          "push key" : "-MJJOWYXuHkfGQVhIaJG",
+          "reply" : "",
+          "reply id" : "",
+          "tanggal" : "11/10/2020",
+          "tipe" : "pc",
+          "uid" : "JzoSpQR7DCOwMfECQ0y7hwwsJl22"
+        },
+        "-MJJOXBjnzd6Thdz-dEB" : {
+          "gmt" : "GMT+03:30",
+          "jam" : "00:53",
+          "pesan" : "😐 ",
+          "push key" : "-MJJOXBjnzd6Thdz-dEB",
+          "reply" : "",
+          "reply id" : "",
+          "tanggal" : "11/10/2020",
+          "tipe" : "pc",
+          "uid" : "JzoSpQR7DCOwMfECQ0y7hwwsJl22"
+        },
+        "-MJLqdWUR_s7ain7HxRI" : {
+          "gmt" : "GMT+03:30",
+          "jam" : "12:20",
+          "pesan" : "تح",
+          "push key" : "-MJLqdWUR_s7ain7HxRI",
+          "reply" : "",
+          "reply id" : "",
+          "tanggal" : "11/10/2020",
+          "tipe" : "pc",
+          "uid" : "JzoSpQR7DCOwMfECQ0y7hwwsJl22"
+        }
+      }
+    },
+    "JzoSpQR7DCOwMfECQ0y7hwwsJl22" : {
+      "3G5izITyhNWPupZsW4mLajS08bZ2" : {
+        "-MJJAiIR1mYW6gbaueuc" : {
+          "gmt" : "GMT+03:30",
+          "jam" : "23:53",
+          "pesan" : "He",
+          "push key" : "-MJJAiIR1mYW6gbaueuc",
+          "reply" : "",
+          "reply id" : "",
+          "tanggal" : "10/10/2020",
+          "tipe" : "pc",
+          "uid" : "JzoSpQR7DCOwMfECQ0y7hwwsJl22"
+        },
+        "-MJJOV_QkvdCa091C3M0" : {
+          "gmt" : "GMT+03:30",
+          "jam" : "00:53",
+          "pesan" : "ععل",
+          "push key" : "-MJJOV_QkvdCa091C3M0",
+          "reply" : "",
+          "reply id" : "",
+          "tanggal" : "11/10/2020",
+          "tipe" : "pc",
+          "uid" : "JzoSpQR7DCOwMfECQ0y7hwwsJl22"
+        },
+        "-MJJOWYXuHkfGQVhIaJG" : {
+          "gmt" : "GMT+03:30",
+          "jam" : "00:53",
+          "pesan" : "سلام ",
+          "push key" : "-MJJOWYXuHkfGQVhIaJG",
+          "reply" : "",
+          "reply id" : "",
+          "tanggal" : "11/10/2020",
+          "tipe" : "pc",
+          "uid" : "JzoSpQR7DCOwMfECQ0y7hwwsJl22"
+        },
+        "-MJJOXBjnzd6Thdz-dEB" : {
+          "gmt" : "GMT+03:30",
+          "jam" : "00:53",
+          "pesan" : "😐 ",
+          "push key" : "-MJJOXBjnzd6Thdz-dEB",
+          "reply" : "",
+          "reply id" : "",
+          "tanggal" : "11/10/2020",
+          "tipe" : "pc",
+          "uid" : "JzoSpQR7DCOwMfECQ0y7hwwsJl22"
+        },
+        "-MJLqdWUR_s7ain7HxRI" : {
+          "gmt" : "GMT+03:30",
+          "jam" : "12:20",
+          "pesan" : "تح",
+          "push key" : "-MJLqdWUR_s7ain7HxRI",
+          "reply" : "",
+          "reply id" : "",
+          "tanggal" : "11/10/2020",
+          "tipe" : "pc",
+          "uid" : "JzoSpQR7DCOwMfECQ0y7hwwsJl22"
+        }
+      }
+    }
+  },
+  "chat list" : {
+    "3G5izITyhNWPupZsW4mLajS08bZ2" : {
+      "JzoSpQR7DCOwMfECQ0y7hwwsJl22" : {
+        "gmt" : "GMT+03:30",
+        "jam" : "12:20",
+        "pesan" : "تح",
+        "push key" : "-MJLqdWUR_s7ain7HxRI",
+        "reply" : "",
+        "reply id" : "",
+        "tanggal" : "11/10/2020",
+        "tipe" : "pc",
+        "uid" : "JzoSpQR7DCOwMfECQ0y7hwwsJl22",
+        "uid2" : "JzoSpQR7DCOwMfECQ0y7hwwsJl22"
+      }
+    },
+    "JzoSpQR7DCOwMfECQ0y7hwwsJl22" : {
+      "3G5izITyhNWPupZsW4mLajS08bZ2" : {
+        "gmt" : "GMT+03:30",
+        "jam" : "12:20",
+        "pesan" : "تح",
+        "push key" : "-MJLqdWUR_s7ain7HxRI",
+        "reply" : "",
+        "reply id" : "",
+        "tanggal" : "11/10/2020",
+        "tipe" : "pc",
+        "uid" : "JzoSpQR7DCOwMfECQ0y7hwwsJl22",
+        "uid2" : "3G5izITyhNWPupZsW4mLajS08bZ2"
+      }
+    }
+  },
+  "chat user" : {
+    "3G5izITyhNWPupZsW4mLajS08bZ2" : {
+      "email" : "giz@lotka.vorgb",
+      "gmt" : "GMT+03:30",
+      "pic url" : "https://firebasestorage.googleapis.com/v0/b/lotka-brain.appspot.com/o/users%2F3G5izITyhNWPupZsW4mLajS08bZ2.png?alt=media&token=f9115012-8a2f-4b91-abcd-81142dc433ea",
+      "tanggal daftar" : "23:52 10-10-2020",
+      "uid" : "3G5izITyhNWPupZsW4mLajS08bZ2",
+      "username" : "Hkliyuuu"
+    }
+  },
+  "secured" : {
+    "3G5izITyhNWPupZsW4mLajS08bZ2" : {
+      "3G5izITyhNWPupZsW4mLajS08bZ2" : {
+        "aa" : "Hkliyuuu",
+        "ab" : "null",
+        "ad" : "2001",
+        "ae" : "Male",
+        "af" : "cae01a53-d3e3-4d62-8cf3-c970bc45d39f",
+        "ag" : "null",
+        "ah" : "null",
+        "ai" : "null",
+        "aj" : "null",
+        "ak" : "null",
+        "al" : "null",
+        "am" : "null",
+        "an" : "null",
+        "ao" : "null",
+        "ap" : "null",
+        "aq" : "null",
+        "ar" : "null",
+        "as" : "null",
+        "at" : "null",
+        "au" : "null",
+        "av" : "null",
+        "aw" : "null",
+        "ax" : "null",
+        "ay" : "null",
+        "az" : "null",
+        "ba" : "null",
+        "bb" : "null",
+        "bc" : "null",
+        "bd" : "null",
+        "be" : "null",
+        "bf" : "null",
+        "bg" : "null",
+        "bh" : "null",
+        "bi" : "null",
+        "bj" : "null",
+        "bk" : "null",
+        "bl" : "null",
+        "bm" : "null",
+        "bn" : "null",
+        "bo" : "null",
+        "bp" : "null",
+        "bq" : "null",
+        "br" : "null",
+        "bs" : "null",
+        "bt" : "null",
+        "bu" : "null",
+        "bv" : "null",
+        "bw" : "null",
+        "bx" : "null",
+        "by" : "null",
+        "bz" : "null",
+        "userimg" : "https://firebasestorage.googleapis.com/v0/b/lotka-brain.appspot.com/o/users%2F3G5izITyhNWPupZsW4mLajS08bZ2.png?alt=media&token=f9115012-8a2f-4b91-abcd-81142dc433ea"
+      }
+    }
+  },
+  "server" : {
+    "server" : {
+      "server" : "online"
+    }
+  },
+  "usertime" : {
+    "3G5izITyhNWPupZsW4mLajS08bZ2" : {
+      "time" : "1602365002478",
+      "uid" : "3G5izITyhNWPupZsW4mLajS08bZ2"
+    }
+  },
+  "yandex" : {
+    "3G5izITyhNWPupZsW4mLajS08bZ2" : {
+      "3G5izITyhNWPupZsW4mLajS08bZ2" : {
+        "aa" : "Hkliyuuu",
+        "af" : "cae01a53-d3e3-4d62-8cf3-c970bc45d39f",
+        "at" : "1602365002478",
+        "uid" : "3G5izITyhNWPupZsW4mLajS08bZ2",
+        "userimg" : "https://firebasestorage.googleapis.com/v0/b/lotka-brain.appspot.com/o/users%2F3G5izITyhNWPupZsW4mLajS08bZ2.png?alt=media&token=f9115012-8a2f-4b91-abcd-81142dc433ea"
+      }
+    }
+  }
+}
